@@ -1,4 +1,7 @@
 # DevOps-Project-Management
+
+![GitHub repo size](https://img.shields.io/github/repo-size/AzizBenIsmail/DevOps-Project-Management)
+
 Voici les étapes clés que j'ai suivies pour assurer le déploiement réussi :
 
 ✅ Préparation de l'environnement Jenkins, Récupération des Projets et Détermination des Versions :
